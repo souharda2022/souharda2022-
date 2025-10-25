@@ -10,10 +10,10 @@
 
 <div align="center">
  
- 👨🏻‍💻 I’m currently working as a **Technical Engineer (Automation)**  
+  
  🙋🏻‍♂️ I’m currently learning **Software Engineering Fundamentals**  
  🌟 Some favorite projects: **Fabric Defect Detection System**, **Vehicle Fuel Consumption**, **Leather Quality Assessment**, **University Student Management System**  
- #⚽ Football fan  
+
  🎵 music enthusiast
  
 </div>
